@@ -1,6 +1,6 @@
 Univerzitet u Sarajevu\
 Elektrotehnički fakultet Sarajevo\
-Predmet: Razvoj programskih rješenja 2019/2020
+Predmet: Razvoj programskih rješenja 2021/2022
 
 # Tutorijal 3 
 ### Priprema za tutorijal
